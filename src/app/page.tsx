@@ -16,6 +16,7 @@ export default function Home() {
       <UpcomingWebinars />
       <Instructors />
       <Footer />
+      {/* Extra */}
     </main>
   );
 }
